@@ -1,0 +1,2 @@
+# pinky-count
+First repo
